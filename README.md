@@ -1,3 +1,3 @@
 # dismantlor-functions
 
-Google Firebase Functions for the [dismantlorapp](https://gitlab.com/dismantlor/dismantlorapp).
+Google Firebase Functions for the [dismantlorapp](https://github.com/Nature-Hacked-Us/dismantlorapp).
